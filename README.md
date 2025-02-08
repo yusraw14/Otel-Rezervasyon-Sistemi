@@ -15,7 +15,7 @@ ER DİYAGRAMI:
 USE CASE DİYAGRAMI:
 ![Ekran görüntüsü 2025-02-08 034843](https://github.com/user-attachments/assets/5c48f825-26e7-4365-b74d-1c31daa236e8)
 
-Temel Özellikler
+Temel Özellikler:
 
 Yönetici İşlemleri
 - Güvenli giriş sistemi
@@ -35,6 +35,14 @@ Yönetici İşlemleri
 - Toplam ücret hesaplama
 - Rezervasyon durumu kontrolü
 - Müsaitlik sorgulama
+
+
+ İş Akışı:
+1. Yönetici sisteme giriş yapar
+2. Müşteri bilgileri kontrol edilir/kaydedilir
+3. Uygun oda kontrolü yapılır
+4. Rezervasyon oluşturulur
+5. Rezervasyon detayları kaydedilir
 
 
 
