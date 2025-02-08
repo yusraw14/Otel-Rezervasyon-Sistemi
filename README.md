@@ -1,6 +1,6 @@
 # Otel-Rezervasyon-Sistemi
 
-YouTube linki: 
+YouTube linki: https://youtu.be/DWae8nli_-c
 
 CLASS DİYAGRAMI:
 ![Ekran görüntüsü 2025-02-08 030946](https://github.com/user-attachments/assets/bc5b39a9-64a9-4979-b744-af79a0547491)
