@@ -45,5 +45,12 @@ Yönetici İşlemleri
 5. Rezervasyon detayları kaydedilir
 
 
+![Ekran görüntüsü 2025-02-08 230420](https://github.com/user-attachments/assets/1ed9dfbe-aa85-498a-966b-449a067fb2dc)
+
+
+
+![Ekran görüntüsü 2025-02-08 230453](https://github.com/user-attachments/assets/62fec9f8-7cd2-4ad2-b09e-42429386d0fa)
+
+
 
 YouTube linki: https://youtu.be/DWae8nli_-c
